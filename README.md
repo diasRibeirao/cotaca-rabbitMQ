@@ -1,1 +1,1 @@
-# cotaca-rabbitMQ
+# cotacao-rabbitMQ
